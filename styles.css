@@ -302,6 +302,7 @@ a {
 
  .mob_img {
   display: inline-block;
+  width: 100%;
  }
 
 
@@ -359,5 +360,26 @@ a {
   font-size: 1rem;
  }
 
+ .main-btn {
+  font-size: 1rem;
+ }
 
+ .secondary-btn {
+  font-size: 1rem;
+
+ }
+
+ .main-footer {
+  justify-content: space-between;
+  padding: 0px;
+ }
+
+ .bg-black {
+  padding: 30px 0px;
+ }
+
+ .footer-btn {
+  font-size: 1rem;
+  padding: 15px 30px;
+ }
 }
